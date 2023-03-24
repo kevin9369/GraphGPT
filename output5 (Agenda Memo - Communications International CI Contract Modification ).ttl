@@ -1,0 +1,21 @@
+@prefix ns1: <http://schema.org/> .
+
+[] a ns1:GovernmentOrganization ;
+    ns1:description "The City of Coral Gables is considering a resolution to waive the competitive process to purchase Visual Computer Solutions' OMS Platform Maintenance service for a period of five years at a cost of $35,000 per year." ;
+    ns1:keywords "Attendance Systems",
+        "City of Coral Gables",
+        "Cloud Services",
+        "Domain Subscription",
+        "Hosting Fees",
+        "Information Technology",
+        "Innovations & Technology Department",
+        "OMS Platform Maintenance",
+        "Police Department",
+        "Police Off-duty Scheduling",
+        "Resolution",
+        "Special Procurement/Bid Waiver",
+        "TIMES",
+        "User Tools",
+        "Visual Computer Solutions" ;
+    ns1:name "City of Coral Gables" .
+
