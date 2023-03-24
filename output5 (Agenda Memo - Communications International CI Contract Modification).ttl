@@ -1,0 +1,20 @@
+@prefix schema: <http://schema.org/> .
+
+[] a schema:CityCommissionMeeting ;
+    schema:attachment "Approved Contract and Solicitation Request Form",
+        "Draft Resolution" ;
+    schema:briefHistory "The Police Department has determined a need to continue a purchasing relationship with Communications International who provides equipment and services for the City’s 800 MHz, Enhanced Digital Simulcast Radio System. This sophisticated radio system provides mission critical public safety and local government communications. Communications International also provides fire alerting equipment and services, mobile and portable radio equipment, dispatch consoles, radio system infrastructure, mutual aid connectivity and consulting. Communications International is the sole source vendor for Harris Radio for the City of Coral Gables. The contract was originally accessed in April 2021 through the Hillsborough County Sheriff’s Office to meet the communication needs of the Police Department. The contract is currently in place until January 2026." ;
+    schema:date "February 14, 2023" ;
+    schema:departmentHeadRecommendation "Approval" ;
+    schema:financialInformation [ a schema:FinancialInformation ;
+            schema:accountNo "001-5040-521-54-01",
+                "310-3200-521-64-31" ;
+            schema:amount "$595,876" ;
+            schema:sourceOfFunds "FY23 Police Budget TSD Division",
+                "Project String: c-newpsbdg.radio-sy.eqpt-gci",
+                "Project String: c-radiosys.rep-mtrx.eqpt-gci" ] ;
+    schema:itemTitle "Resolution" ;
+    schema:location [ a schema:City ;
+            schema:name "Coral Gables" ] ;
+    schema:name "City Commission Meeting" .
+
